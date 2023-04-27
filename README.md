@@ -2,10 +2,10 @@
 
 # #task4 in my web development internship with SYNC INTERN'S....
 
-#### E-learning Website using HTML CSS and JavaScript
+### E-learning Website using HTML CSS and JavaScript
 
 <ul>
-E-learning is a learning system that contains the following features:
+##### E-learning is a learning system that contains the following features:
 
 <li>Signing up online</li> 
 
